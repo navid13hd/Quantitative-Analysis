@@ -1,2 +1,2 @@
 # Quantitative-Analysis
-These are the projects I have done through my Master's courses just to showcase my skills
+These projects reflect my skills developed during my Master's courses, particularly in Risk Management, Computational Finance, Inferential Statistics
